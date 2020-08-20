@@ -242,8 +242,7 @@ button {
   font-size: 17px;
   letter-spacing: 0.5px;
   -ms-flex-item-align: end;
-      -ms-grid-row-align: end;
-      align-self: end;
+      align-self: flex-end;
   font-weight: 600;
 }
 
